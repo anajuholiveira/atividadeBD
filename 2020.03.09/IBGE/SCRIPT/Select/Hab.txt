@@ -1,0 +1,3 @@
+SELECT numeroHab
+FROM cidade
+WHERE numeroHab > 100000
